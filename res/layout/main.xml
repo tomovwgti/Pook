@@ -8,7 +8,7 @@
 		android:layout_width="fill_parent" android:background="@android:drawable/bottom_bar"
 		android:layout_height="wrap_content" android:padding="4dp"
 		android:layout_gravity="center" android:weightSum="2">
-		<Button android:id="@+id/qrcode" android:layout_width="0dp" android:text="QR CODE"
+		<Button android:id="@+id/qrcode" android:layout_width="0dp" android:text="クォート by QR"
 			android:layout_height="wrap_content" android:layout_weight="1" />
 	</LinearLayout>
 </LinearLayout>
